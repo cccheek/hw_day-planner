@@ -22,13 +22,11 @@ body {
     border-bottom: 10px solid black;
   }
   
-  /* .description{
-    white-space: pre-wrap;
-  } */
-  
   .time-block{
     text-align: center;
     border-radius: 15px;
+    text-align: center;
+    padding: 30px;
   }
   
   .row {
@@ -64,6 +62,8 @@ body {
     border-bottom-right-radius: 15px;
     background-color: #06AED5;
     color: white;
+    text-align: center;
+    padding: 20px;
   }
   
   .saveBtn i:hover {
